@@ -1,0 +1,3 @@
+# Raw upstream evidence is byte-pinned; never normalize whitespace or CRLF.
+source/ecb-2026-10-05.xml binary
+source/ecb-terms-2026-10-06.html binary

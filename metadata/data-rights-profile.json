@@ -1,0 +1,14 @@
+{
+  "database": {
+    "name": "ECB reuse conditions",
+    "text": "Summary of ECB source conditions: reproduce accurately and credit the ECB; disclose modifications. For information incorporated in sold documents, inform buyers before payment and on each access that the original is available free from the ECB. Open ECB business/promotional links in the full browser window. Author-named papers have a separate permission exception. The canonical linked terms govern. Rates are published for information purposes; transaction use is strongly discouraged.",
+    "url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html"
+  },
+  "format": "ovdb-data-rights/1",
+  "provenance": {
+    "bytes": 1255,
+    "path": "metadata/source-rights.json",
+    "sha256": "923de3c1fb5edd073231b0ad6a58829a699052f946757c02946b22b42e05ba4b"
+  },
+  "recordsets": {}
+}

@@ -1,0 +1,15 @@
+name: ECB snapshot
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reproduce dated artifacts
+        run: python3 scripts/import_ecb.py --check
+      - name: Verify exact decimals and invalid-source refusals
+        run: python3 -m unittest discover -s tests -v

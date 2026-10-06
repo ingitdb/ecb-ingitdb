@@ -1,0 +1,21 @@
+[
+  {
+    "bytes": 1547,
+    "content_type": "text/xml",
+    "last_modified": "Mon, 05 Oct 2026 13:56:17 GMT",
+    "observed_at": "2026-10-06T06:02:46.177959+00:00",
+    "path": "source/ecb-2026-10-05.xml",
+    "sha256": "8ba05b7b0c3afdac3dad7ac653a459df998383b7971386d630984aeb3872c424",
+    "status": 200,
+    "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  },
+  {
+    "bytes": 107588,
+    "last_modified": null,
+    "observed_at": "2026-10-06T06:04:40.180917+00:00",
+    "path": "source/ecb-terms-2026-10-06.html",
+    "sha256": "e1e193a97f9cddc2ce45cedefc08e854c6ad4fc15103ef67d1c575adc9723be4",
+    "status": 200,
+    "url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html"
+  }
+]

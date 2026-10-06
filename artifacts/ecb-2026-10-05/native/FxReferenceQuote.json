@@ -1,0 +1,263 @@
+[
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "AUD",
+    "Rate": "1.6097",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "1.6097",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "BRL",
+    "Rate": "5.5849",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "5.5849",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "CAD",
+    "Rate": "1.5969",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "1.5969",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "CHF",
+    "Rate": "0.9311",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "0.9311",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "CNY",
+    "Rate": "7.5118",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "7.5118",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "CZK",
+    "Rate": "24.456",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "24.456",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "DKK",
+    "Rate": "7.4745",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "7.4745",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "GBP",
+    "Rate": "0.84720",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "0.84720",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "HKD",
+    "Rate": "8.7925",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "8.7925",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "HUF",
+    "Rate": "367.80",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "367.80",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "IDR",
+    "Rate": "20069.89",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "20069.89",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "ILS",
+    "Rate": "3.4310",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "3.4310",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "INR",
+    "Rate": "107.8915",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "107.8915",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "ISK",
+    "Rate": "137.00",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "137.00",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "JPY",
+    "Rate": "177.28",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "177.28",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "KRW",
+    "Rate": "1505.80",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "1505.80",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "MXN",
+    "Rate": "20.3348",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "20.3348",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "MYR",
+    "Rate": "4.5791",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "4.5791",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "NOK",
+    "Rate": "10.7575",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "10.7575",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "NZD",
+    "Rate": "2.0038",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "2.0038",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "PHP",
+    "Rate": "70.219",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "70.219",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "PLN",
+    "Rate": "4.3795",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "4.3795",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "RON",
+    "Rate": "5.3363",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "5.3363",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "SEK",
+    "Rate": "11.2525",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "11.2525",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "SGD",
+    "Rate": "1.4344",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "1.4344",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "THB",
+    "Rate": "37.752",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "37.752",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "TRY",
+    "Rate": "55.0755",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "55.0755",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "USD",
+    "Rate": "1.1204",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "1.1204",
+    "ReferenceDate": "2026-10-05"
+  },
+  {
+    "BaseCurrencyCode": "EUR",
+    "Provider": "ECB",
+    "QuoteCurrencyCode": "ZAR",
+    "Rate": "18.6263",
+    "RateKind": "ECB indicative reference",
+    "RateRaw": "18.6263",
+    "ReferenceDate": "2026-10-05"
+  }
+]

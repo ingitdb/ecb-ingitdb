@@ -1,0 +1,29 @@
+{
+  "attribution": {
+    "text": "Source: European Central Bank (ECB).",
+    "url": "https://www.ecb.europa.eu/"
+  },
+  "capturedAt": "2026-10-06",
+  "format": "ovdb-source-rights/1",
+  "freeSource": {
+    "text": "The original ECB reference rates are available free of charge from the ECB website. This is a dated 2026-10-05 snapshot; the linked daily XML may later show another date.",
+    "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  },
+  "inputs": [
+    {
+      "bytes": 1547,
+      "path": "source/ecb-2026-10-05.xml",
+      "sha256": "8ba05b7b0c3afdac3dad7ac653a459df998383b7971386d630984aeb3872c424"
+    }
+  ],
+  "terms": [
+    {
+      "bytes": 107588,
+      "path": "source/ecb-terms-2026-10-06.html",
+      "sha256": "e1e193a97f9cddc2ce45cedefc08e854c6ad4fc15103ef67d1c575adc9723be4"
+    }
+  ],
+  "transformations": [
+    "ECB daily XML Cube attributes were restructured into sorted FxReferenceQuote rows and SQLite TEXT columns. EUR base currency and ECB indicative reference kind were made explicit. Source decimal spellings are unchanged; no derived pairs, rounding or missing-date fill were applied. SQLite header writer-version bytes 96-99 are zeroed for reproducible packaging; source rows are unchanged."
+  ]
+}

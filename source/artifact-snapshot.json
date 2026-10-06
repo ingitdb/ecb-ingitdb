@@ -1,0 +1,100 @@
+{
+  "attribution": {
+    "text": "Source: European Central Bank (ECB).",
+    "url": "https://www.ecb.europa.eu/"
+  },
+  "coverage": {
+    "baseCurrencyCode": "EUR",
+    "kind": "dated-snapshot",
+    "quoteCurrencies": [
+      "AUD",
+      "BRL",
+      "CAD",
+      "CHF",
+      "CNY",
+      "CZK",
+      "DKK",
+      "GBP",
+      "HKD",
+      "HUF",
+      "IDR",
+      "ILS",
+      "INR",
+      "ISK",
+      "JPY",
+      "KRW",
+      "MXN",
+      "MYR",
+      "NOK",
+      "NZD",
+      "PHP",
+      "PLN",
+      "RON",
+      "SEK",
+      "SGD",
+      "THB",
+      "TRY",
+      "USD",
+      "ZAR"
+    ],
+    "recordset": "FxReferenceQuote",
+    "rows": 29
+  },
+  "decimalEncoding": {
+    "Rate": "positive exact decimal encoded as TEXT/string",
+    "RateRaw": "unchanged XML decimal lexeme",
+    "arithmetic": "none"
+  },
+  "format": "ecb-snapshot/1",
+  "freeSource": {
+    "text": "The original ECB reference rates are available free of charge from the ECB website. This is a dated 2026-10-05 snapshot; the linked daily XML may later show another date.",
+    "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  },
+  "generator": {
+    "bytes": 9951,
+    "path": "scripts/import_ecb.py",
+    "runtime": "Python standard library; byte-checked fresh SQLite generation",
+    "sha256": "95a58994b5f393a5d14a83cb833015acb804a672a49520cf1f7118b24489dab9"
+  },
+  "inputs": [
+    {
+      "bytes": 1547,
+      "lastModified": "Mon, 05 Oct 2026 13:56:17 GMT",
+      "observedAt": "2026-10-06T06:02:46.177959+00:00",
+      "path": "source/ecb-2026-10-05.xml",
+      "sha256": "8ba05b7b0c3afdac3dad7ac653a459df998383b7971386d630984aeb3872c424",
+      "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+    }
+  ],
+  "outputs": [
+    {
+      "bytes": 8192,
+      "path": "artifacts/ecb-2026-10-05/native/ecb.sqlite",
+      "sha256": "076e043b0f4c9a008115ba1f65b38c77cc3a3952c6fe5877c609ee27b10180f1"
+    },
+    {
+      "bytes": 6405,
+      "path": "artifacts/ecb-2026-10-05/native/FxReferenceQuote.json",
+      "sha256": "027ee6e237a917a92dec03bd9f373761724d4da6cda7febda017ba9196c9febd"
+    }
+  ],
+  "publication": {
+    "available": false,
+    "deploymentVerified": false,
+    "query": false,
+    "status": "source fixture; publication and semantic bindings pending"
+  },
+  "referenceDate": "2026-10-05",
+  "terms": [
+    {
+      "bytes": 107588,
+      "observedAt": "2026-10-06T06:04:40.180917+00:00",
+      "path": "source/ecb-terms-2026-10-06.html",
+      "sha256": "e1e193a97f9cddc2ce45cedefc08e854c6ad4fc15103ef67d1c575adc9723be4",
+      "url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html"
+    }
+  ],
+  "transformations": [
+    "ECB daily XML Cube attributes were restructured into sorted FxReferenceQuote rows and SQLite TEXT columns. EUR base currency and ECB indicative reference kind were made explicit. Source decimal spellings are unchanged; no derived pairs, rounding or missing-date fill were applied. SQLite header writer-version bytes 96-99 are zeroed for reproducible packaging; source rows are unchanged."
+  ]
+}
